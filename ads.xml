@@ -1,0 +1,109 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<Advertisements>
+  <Ad>
+    <ImageUrl>~/images/ads1.jpg</ImageUrl>
+    <AlternateText>Advertisement</AlternateText>
+    <Impressions>20</Impressions>
+    <Keyword>small</Keyword>
+  </Ad>
+
+  <Ad>
+    <ImageUrl>~/images/ads2.jpg</ImageUrl>
+    <AlternateText>Advertisement</AlternateText>
+    <Impressions>30</Impressions>
+    <Keyword>small</Keyword>
+  </Ad>
+
+  <Ad>
+    <ImageUrl>~/images/ads3.jpg</ImageUrl>
+    <AlternateText>Advertisement</AlternateText>
+    <Impressions>1</Impressions>
+    <Keyword>small</Keyword>
+  </Ad>
+
+
+  <Ad>
+    <ImageUrl>~/images/ads4.jpg</ImageUrl>
+    <AlternateText>Advertisement</AlternateText>
+    <Impressions>20</Impressions>
+    <Keyword>big</Keyword>
+  </Ad>
+
+  <Ad>
+    <ImageUrl>~/images/ads5.jpg</ImageUrl>
+    <AlternateText>Advertisement</AlternateText>
+    <Impressions>30</Impressions>
+    <Keyword>big</Keyword>
+  </Ad>
+
+  <Ad>
+    <ImageUrl>~/images/ads6.jpg</ImageUrl>
+    <AlternateText>Advertisement</AlternateText>
+    <Impressions>1</Impressions>
+    <Keyword>big</Keyword>
+  </Ad>
+
+  <Ad>
+    <ImageUrl>~/images/ads7.jpg</ImageUrl>
+    <AlternateText>Advertisement</AlternateText>
+    <Impressions>1</Impressions>
+    <Keyword>large</Keyword>
+  </Ad>
+
+  <Ad>
+    <ImageUrl>~/images/ads8.jpg</ImageUrl>
+    <AlternateText>Advertisement</AlternateText>
+    <Impressions>1</Impressions>
+    <Keyword>large</Keyword>
+  </Ad>
+
+  <Ad>
+    <ImageUrl>~/images/ads9.jpg</ImageUrl>
+    <AlternateText>Advertisement</AlternateText>
+    <Impressions>1</Impressions>
+    <Keyword>large</Keyword>
+  </Ad>
+
+  <Ad>
+    <ImageUrl>~/images/ads10.jpg</ImageUrl>
+    <AlternateText>Advertisement</AlternateText>
+    <Impressions>1</Impressions>
+    <Keyword>fourth</Keyword>
+  </Ad>
+
+  <Ad>
+    <ImageUrl>~/images/ads1.jpg</ImageUrl>
+    <AlternateText>Advertisement</AlternateText>
+    <Impressions>1</Impressions>
+    <Keyword>fourth</Keyword>
+  </Ad>
+
+  <Ad>
+    <ImageUrl>~/images/ads2.jpg</ImageUrl>
+    <AlternateText>Advertisement</AlternateText>
+    <Impressions>1</Impressions>
+    <Keyword>fourth</Keyword>
+  </Ad>
+  
+   <!--<Ad>
+    <ImageUrl>~/images/ads3.jpg</ImageUrl>
+    <AlternateText>Advertisement</AlternateText>
+    <Impressions>1</Impressions>
+    <Keyword>fifth</Keyword>
+  </Ad>
+
+  <Ad>
+    <ImageUrl>~/images/ads4.jpg</ImageUrl>
+    <AlternateText>Advertisement</AlternateText>
+    <Impressions>1</Impressions>
+    <Keyword>fifth</Keyword>
+  </Ad>
+
+  <Ad>
+    <ImageUrl>~/images/ads5.jpg</ImageUrl>
+    <AlternateText>Advertisement</AlternateText>
+    <Impressions>1</Impressions>
+    <Keyword>fifth</Keyword>
+  </Ad>-->
+</Advertisements>

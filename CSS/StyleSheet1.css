@@ -1,0 +1,162 @@
+﻿#watermark {
+    position: relative;
+    bottom: 15px;
+    opacity: 0.2;
+    z-index: 1;
+    color: white;
+}
+
+body {
+    font-weight: 300;
+}
+
+.row {
+    width: 100%;
+}
+
+.text-muted {
+    color: #bcbbbb;
+}
+
+.centered {
+    top: 50%;
+    left: 50%;
+    color: black;
+    font-weight: bolder;
+    text-align: center;
+}
+
+.text-thin {
+    font-weight: 100;
+}
+
+.title-bar,
+.projects {
+    display: flex;
+}
+
+.title-logo {
+    margin-top: 20px;
+}
+
+.horizontal-rule {
+    background: #bcbbbb;
+    height: 6px;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+@media screen and (min-width: 453px) {
+    .title-super {
+        font-size: 60px;
+    }
+}
+
+@media screen and (max-width: 453px) {
+    h3 {
+        font-size: 14px;
+    }
+
+    .project-link {
+        font-size: 12px;
+    }
+}
+
+[class*="zocial-"]:before {
+    font-family: 'zocial', sans-serif;
+}
+
+.zocial {
+    text-align: center;
+    border-top-width: 3px;
+    border-top-color: #bcbbbb;
+    border-top-style: solid;
+    padding: 10px;
+}
+
+a {
+    color: white;
+}
+
+.zocial-facebook,
+.zocial-linkedin,
+.zocial-instagram {
+    padding: 1em;
+}
+
+.navbar {
+    margin-bottom: 0px;
+    padding-top: 15px;
+    border-radius: 0;
+}
+
+.hidden {
+    visibility: hidden;
+    over-flow: hidden;
+    width: 0px;
+    height: 0px;
+}
+
+.jumbotron {
+    margin-bottom: 0;
+    background-color: black;
+    color: white;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+footer {
+    background-color: black;
+    color: white;
+    /*padding: 25px;*/
+}
+
+.carousel-inner {
+    width: 100%;
+    max-height: 395px !important;
+}
+
+table, tr, td, tbody {
+    border-top: none !important;
+    cursor: pointer
+}
+
+td:target {
+        color: orange;
+    }
+.black-background {
+    background-color: #000000;
+}
+.black-background:hover {
+    color:white;
+}
+    .black-background:visited {
+        color: white;
+    }
+.white {
+    color: #ffffff;
+}
+.required:before {
+    content: "*" !important;
+    color: red;
+}
+.rbl input[type="radio"] {
+    margin-left: 10px;
+    margin-right: 1px;
+}
+
+.req{
+    color:blue;
+}
+
+.hyperlink{
+    color:black;
+    text-decoration:underline;
+}
+
+.display{
+    background-color:lightgoldenrodyellow;
+}
